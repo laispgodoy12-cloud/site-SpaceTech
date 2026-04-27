@@ -1,0 +1,25 @@
+/* Ajuste para as imagens dos cards ficarem uniformes */
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+        .footer-space {
+            background-color: #0b0d17; /* Azul quase preto espacial */
+            color: #ffffff;
+            padding: 60px 0 20px;
+        }
+        .footer-space a {
+            color: #b9bbbe;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .footer-space a:hover {
+            color: #00d4ff; /* Azul neon estelar */
+        }
+        .social-icons i {
+            font-size: 1.5rem;
+            margin-right: 15px;
+        }
+        .border-top-space {
+            border-top: 1px solid #1f232d;
+        }
